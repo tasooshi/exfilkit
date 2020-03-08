@@ -1,0 +1,6 @@
+root:!:1000:0:99999:7:::
+daemon:*:1001:0:99999:7:::
+bin:*:1001:0:99999:7:::
+sshd:*:1000:0:99999:7:::
+www-data:$6$iU9KjxED$5myxx4W9d2pTOEdVUeP4/E3Kmjl3CtXXFqIIyes.xnNHy1bG2gJLb0q2KLhjAH3KrPpHZ0eJorBh.D74mq.vQ.:1000:0:99999:7:::
+user:Ep5kdoeLlcxF.:10000:0:99999:7:::
