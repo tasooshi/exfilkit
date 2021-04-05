@@ -8,7 +8,7 @@ import socketserver
 import sys
 import time
 
-import lollipopz as lpz
+import exfilkit as lpz
 
 
 class BaseHandler:

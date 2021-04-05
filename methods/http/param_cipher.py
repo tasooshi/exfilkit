@@ -3,8 +3,8 @@ import urllib
 
 from scapy.layers import http
 
-import lollipopz as lpz
-from lollipopz import methods
+import exfilkit as lpz
+from exfilkit import methods
 
 
 ENCODING_TABLE = {

@@ -3,8 +3,8 @@ import random
 
 from scapy.layers import dns
 
-import lollipopz as lpz
-from lollipopz import methods
+import exfilkit as lpz
+from exfilkit import methods
 
 
 EOT_RESPONSE = (b'cpanel.', '127.0.0.1')
