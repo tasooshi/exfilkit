@@ -1,6 +1,6 @@
 # exfilkit
 
-    ░▒▓ exfilkit ▓▒░ Data exfiltration utility for testing detection capabilities
+> Data exfiltration utility for testing detection capabilities
 
 ## Description
 
